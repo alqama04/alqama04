@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [shopatsalon](https://shopatsalon.com/)
 
-- 🌱 I’m currently learning **Frameworks,courses,etc.**
+- 🌱 I'm currently enhancing my skills by learning Socket.IO, exploring its features, and upgrading my proficiency in web development**
 
 - 💬 Ask me about **React,NextJs**
 
